@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#RDPB-6] Erro no login</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://rosaneamigos100.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [RDPB-6]&nbsp;<a href="https://rosaneamigos100.atlassian.net/browse/RDPB-6">Erro no login</a>
+            <span class="subText">
+               Criado: 14/ago/23                   &nbsp;Atualizado(a): 14/ago/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://rosaneamigos100.atlassian.net/secure/BrowseProject.jspa?id=10000">Rosane da Paixão Barbosa</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Erro
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:d7a28daa-ed87-4fdb-ade3-b4032a29e74c"
+                id="word_reporter_70121:d7a28daa-ed87-4fdb-ade3-b4032a29e74c"
+                href="https://rosaneamigos100.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3Ad7a28daa-ed87-4fdb-ade3-b4032a29e74c">
+                    Rosane da paixão Barbosa
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10005-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Anexos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://rosaneamigos100.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    image-20230814-174737.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://rosaneamigos100.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    image-20230814-174827.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10005-value" class="value" bgcolor="#ffffff" width="80%">      0|i00013:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Código único</b> LM005</p>
+
+<p><b>passo a passo para reproduzir o bug:</b> Entrar na página <a href="https://shop.lm.mentorama.com.br/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://shop.lm.mentorama.com.br/</a>  ,  clicar no icone entrar</p>
+
+<p>a pagina de login para ser exibida , ao preencher os campos e-mail e senha, clicar no botão “Acessar” o site está dando mensagem de erro (anexo)</p>
+
+<p><b>Especificar tecnicamente:</b> xxxxxxxx</p>
+
+<p><b>Quem está reportando:</b> Rosane Da Paixão Barbosa</p>
+
+<p><b>Em HML ou PRD:</b> Produção</p>
+
+<p><b>Médio, Baixo ou Urgente:</b> Médio</p>
+
+<p><b>Impacto:</b> O usuário não conseguir acessar sua conta e nem ser cadastrar no site</p>
+
+<p><b>Status:</b> Aberto</p>
+
+<p><b>Comportamento esperado:</b> O usuario conseguir acessar sua conta e tambem fazer novo cadastro no site </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Mon Aug 14 18:08:20 UTC 2023 por Rosane da paixão Barbosa usando JIRA 1001.0.0-SNAPSHOT#100234-sha1:d099d869ef15ae7a09730683977981823d6d7bfd.
+
+</body>
+</html>
